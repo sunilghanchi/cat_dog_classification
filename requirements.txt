@@ -1,14 +1,5 @@
-﻿ipython
-ipython-genutils
-ipywidgets
-keras
-matplotlib
-matplotlib-inline
-numpy
-opencv-python
-pandas
-pillow
 streamlit
+Pillow
+numpy
 tensorflow
-opencv-python
 opencv-python-headless
